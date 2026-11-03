@@ -1,4 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" rx="112" fill="#2E6B4F" />
-  <path d="M186 146v220h144" fill="none" stroke="#ffffff" stroke-width="46" stroke-linecap="round" stroke-linejoin="round" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#f7faf8"/><rect x="137" y="137" width="105" height="105" rx="23" fill="#84ad9b"/><rect x="137" y="266" width="105" height="105" rx="23" fill="#b1cdbf"/><rect x="266" y="266" width="105" height="105" rx="23" fill="#609580"/><rect transform="rotate(45 355.5 152.5)" x="303" y="100" width="105" height="105" rx="23" fill="#28664f"/></svg>
+
