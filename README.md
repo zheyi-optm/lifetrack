@@ -71,11 +71,16 @@ LifeTrack 的出发点很简单：**把这些留在自己手里**。
 </tr>
 </table>
 
-<p align="center">
-  <img src="readme/todo-chart.png" width="260" alt="待办进度" />
-  <br/>
-  <sub>待办进度折线：只看有推进的日子，截止前绿、截止后红</sub>
-</p>
+<table>
+<tr>
+<td width="50%"><img src="readme/todo-plan.png" alt="待办进度" /><br/><sub>实际进度（绿）与计划节点（蓝）对照</sub></td>
+<td width="50%"><img src="readme/todo-edit.png" alt="待办设置" /><br/><sub>待办：截止日、进度节点、执行标准</sub></td>
+</tr>
+<tr>
+<td><img src="readme/define.png" alt="定义" /><br/><sub>追踪项与模块，全部自定义</sub></td>
+<td align="center"><sub>记录过去，规划将来</sub></td>
+</tr>
+</table>
 
 **还有**：待办（含长期任务与已完成折叠）、事项（时间段）、明日预安排、备份导出/导入、软件版（离线 APK）。
 
