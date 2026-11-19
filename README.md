@@ -1,6 +1,6 @@
 # LifeTrack
 
-**记录过去，规划将来。**
+**记录过去，规划未来。**
 
 一个完全跑在本机的每日记录工具。没有账号，没有服务器，数据只存在你自己的设备里。
 
@@ -60,28 +60,32 @@ LifeTrack 的出发点很简单：**把这些留在自己手里**。
 
 ## 功能一览
 
-<table>
-<tr>
-<td width="50%"><img src="readme/record.png" alt="记录" /><br/><sub>逐项填写，填一项存一项</sub></td>
-<td width="50%"><img src="readme/charts.png" alt="图表" /><br/><sub>趋势、分布、自定义区间</sub></td>
-</tr>
-<tr>
-<td><img src="readme/calendar.png" alt="日历" /><br/><sub>热力图，点开看当天全部信息</sub></td>
-<td><img src="readme/overview.png" alt="概览" /><br/><sub>一键复制的当日总结</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="readme/record.png" width="240" alt="记录" />
+  <img src="readme/charts.png" width="240" alt="图表" />
+  <br/>
+  <sub>逐项填写，填一项存一项　·　趋势、分布、自定义区间</sub>
+</p>
 
-<table>
-<tr>
-<td width="50%"><img src="readme/todo-plan.png" alt="待办进度" /><br/><sub>实际进度（绿）与计划节点（蓝）对照</sub></td>
-<td width="50%"><img src="readme/todo-edit.png" alt="待办设置" /><br/><sub>待办：截止日、进度节点、执行标准</sub></td>
-</tr>
-<tr>
-<td><img src="readme/define.png" alt="定义" /><br/><sub>追踪项与模块，全部自定义</sub></td>
-<td align="center"><sub>记录过去，规划将来</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="readme/calendar.png" width="240" alt="日历" />
+  <img src="readme/overview.png" width="240" alt="概览" />
+  <br/>
+  <sub>热力图，点开看当天全部信息　·　一键复制的当日总结</sub>
+</p>
 
+<p align="center">
+  <img src="readme/todo-plan.png" width="240" alt="待办进度" />
+  <img src="readme/todo-edit.png" width="240" alt="待办设置" />
+  <br/>
+  <sub>实际进度（绿）与计划节点（蓝）对照　·　截止日、进度节点、执行标准</sub>
+</p>
+
+<p align="center">
+  <img src="readme/define.png" width="240" alt="自定义追踪项" />
+  <br/>
+  <sub>追踪项与模块，全部自定义</sub>
+</p>
 **还有**：待办（含长期任务与已完成折叠）、事项（时间段）、明日预安排、备份导出/导入、软件版（离线 APK）。
 
 ---
@@ -97,8 +101,8 @@ LifeTrack 的出发点很简单：**把这些留在自己手里**。
 
 ## 版本
 
-- 网页版 **6.5.2**
-- 软件版 **8.6.5.2.2**（前缀 8 表示软件版，末位是软件侧微修次数）
+- 网页版 **7.0.1**
+- 软件版 **8.7.0.1.1**（前缀 8 表示软件版，末位是软件侧微修次数）
 
 版本号每一轮改动都会推进；软件版可以在设置里检查更新。
 
