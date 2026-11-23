@@ -1,1 +1,1 @@
-﻿{"apk":"https://zheyi-optm.github.io/lifetrack/lifetrack.apk","apkVersion":"8.7.1.0","version":"7.1.0","notes":["修复待办进度节点输入框清空后自动变 0 的问题","明日安排加入概览文本，方便 AI 评估计划","更新弹窗显示本次更新内容"]}
+﻿{"apk":"https://zheyi-optm.github.io/lifetrack/lifetrack.apk","apkVersion":"8.7.1.1","version":"7.1.1","notes":["修复日历「本月记录天数」漏掉时间、选择字段的问题","时间字段的平均值改用正确格式显示（如 7 小时 20 分）"]}
