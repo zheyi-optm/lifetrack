@@ -1,1 +1,1 @@
-﻿{"apk":"https://zheyi-optm.github.io/lifetrack/lifetrack.apk","apkVersion":"8.7.1.1","version":"7.1.1","notes":["修复日历「本月记录天数」漏掉时间、选择字段的问题","时间字段的平均值改用正确格式显示（如 7 小时 20 分）"]}
+﻿{"apk":"https://zheyi-optm.github.io/lifetrack/lifetrack.apk","apkVersion":"8.7.1.2","version":"7.1.2","notes":"修复创意时钟只能选 0–12 时的问题，新增上午 / 下午切换"}
